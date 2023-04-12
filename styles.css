@@ -6,7 +6,8 @@ html {
 
 navbar {
     background-color: antiquewhite;
-
+    padding:none;
+    text-align: center;
 }
 
 h1{
@@ -35,6 +36,7 @@ h1{
 }
 header {
     padding:4px;   
+    text-align: center;
     background:wheat;
     border: 4px solid mediumturquoise;
 }
@@ -43,8 +45,9 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 15px;
     width:auto;
-    font-size: 45px;
+    font-size: 1em;
     padding:15px;
+    text-align: center;
     background-color: goldenrod;
    
 }
