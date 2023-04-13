@@ -16,3 +16,6 @@ thinking of releasing a better version with more content as the bootcamp continu
 # contributions 
 Ethan hinds helped me set up the html code and how to manipulate CSS elements.
 
+# deployment link to website 
+
+https://eddiefriedman1774.github.io/w2-portfolio-project/
