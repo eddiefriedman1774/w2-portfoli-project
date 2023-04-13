@@ -18,9 +18,13 @@ h1{
 }
 
 #profilepic {
-    width: 150px;
+    width: 15%;
     background-color: yellowgreen;
     padding:4px;
+}
+
+#boeing {
+    width:31%;
 }
 
 .workimages{
